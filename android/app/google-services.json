@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1049990833357",
+    "project_id": "cityweather-be3fd",
+    "storage_bucket": "cityweather-be3fd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049990833357:android:2f48dee74fa77d75be7584",
+        "android_client_info": {
+          "package_name": "country.weather"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC_uyZRT7anA2dVc4yksnmXe9aACRdzFxA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
